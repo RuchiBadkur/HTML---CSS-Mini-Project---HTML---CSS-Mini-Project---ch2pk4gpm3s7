@@ -1,1 +1,61 @@
-
+body, html{
+    height: 100%;
+    margin: 0%;
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color:#666;
+}
+.one {
+    background-image: url("images/pexels-josh-sorenson-139303.jpg");
+    min-height: 100%;
+}
+.two {
+    background-image: url("images/pexels-guilherme-rossi-1668928.jpg");
+    min-height: 400px;
+}
+.three {
+    background-image: url("images/pexels-peter-fazekas-874629.jpg");
+    min-height: 400px;
+}
+.four{
+    background-image: url("images/pexels-josh-sorenson-139303.jpg");
+    min-height: 100%;
+}
+.one, .two, .three, .four{
+    position: relative;
+    opacity: 0.75;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.section {
+    text-align: center;
+    padding: 30px 50px;
+}
+.light{
+    background-color: whitesmoke;
+    color: #666;
+}
+.dark{
+    background-color: rgb(20, 26, 20);
+    color: whitesmoke;
+}
+ .border{
+    position: absolute;
+    top: 50%;
+    margin-left: 35%;
+    text-align: center;
+    color: white; 
+    background-color: black;
+    padding: 15px 0px 15px 0px;
+    font-size: 25px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.trans{
+    background-color: transparent;
+    color: white;
+}
