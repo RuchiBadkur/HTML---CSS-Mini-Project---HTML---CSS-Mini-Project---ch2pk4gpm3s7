@@ -57,7 +57,7 @@ My your major learnings while working through this project are:
 
 ### Continued development
 
-I want to continue focusing on front end web development technologies like html, css, bootstrap, javascript, react.js, node.js, express.js and database like mongodb etc. in future projects.
+I want to continue focusing on web development technologies like html, css, bootstrap, javascript, react.js, node.js, express.js and database like mongodb etc. in future projects.
 
 ### Useful resources
 
