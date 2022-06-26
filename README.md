@@ -29,7 +29,7 @@ This is a [Parallax website](https://ruchibadkur.github.io/HTML---CSS-Mini-Proje
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 
 ### What I learned
