@@ -34,26 +34,9 @@ This is a [Parallax website](https://ruchibadkur.github.io/HTML---CSS-Mini-Proje
 
 ### What I learned
 
-My your major learnings while working through this project are:
+My major learnings while working through this project are:
 
-```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="style.css">
-```
-```css
-.one {
-    background-image: url("images/pexels-josh-sorenson-139303.jpg");   
-}
-.one, .two, .three, .four{
-    position: relative;
-    opacity: 0.75;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-```
+- How to create a parallex effect.
 
 ### Continued development
 
